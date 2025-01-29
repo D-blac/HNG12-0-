@@ -14,7 +14,7 @@ A basic REST API created using Node.js and Express that provides personal detail
 ## API Specification
 
 ### Endpoint
-- URL: `https://gentech-92pt.onrender.com`
+- URL: `https://hng12-0-jur9.onrender.com`
 - Method: `GET`
 - Response Format: JSON
 
@@ -74,7 +74,7 @@ This API is deployed using Render
 - CORS middleware
 
 ## Live Demo
-The API is deployed at: `https://gentech-92pt.onrender.com`
+The API is deployed at: `https://hng12-0-jur9.onrender.com`
 
 ## Author
 Your Name
