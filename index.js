@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3751;
 
 // Enable CORS for all origins
-app.use(cors());
+app.use(cors("*"));
 
 app.get('/', (req, res) => {
     res.json({

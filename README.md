@@ -4,7 +4,7 @@ Public API to Retrieve Basic Information
 
 # HNG Stage One Task
 
-A simple REST API built with Node.js and Express that returns personal information including email, current datetime in ISO 8601 format, and GitHub repository URL.
+A basic REST API created using Node.js and Express that provides personal details such as email, the current date and time in ISO 8601 format, and the URL to a GitHub repository.
 
 ## Requirements
 
@@ -14,16 +14,16 @@ A simple REST API built with Node.js and Express that returns personal informati
 ## API Specification
 
 ### Endpoint
-- URL: `https://your-deployed-url/`
+- URL: `https://gentech-92pt.onrender.com`
 - Method: `GET`
 - Response Format: JSON
 
 ### Response Format
 
 {
-    "email": "your-email@example.com",
+    "email": "your-obijekwudamian@gmail.com",
     "current_datetime": "2025-01-30T09:30:00Z",
-    "github_url": "https://github.com/D-blac/HNG12-0-.git"
+    "github_url": `"https://github.com/D-blac/HNG12-0-.git"`
 }
 
 
@@ -31,7 +31,7 @@ A simple REST API built with Node.js and Express that returns personal informati
 
 1. Clone the repository
 
-git clone https://github.com/D-blac/HNG12-0-.git
+git clone `https://github.com/D-blac/HNG12-0-.git`
 cd your-repo
 
 
@@ -66,7 +66,7 @@ This API is deployed using Render
 
 
 ## Environment Variables
-- `PORT`: Server port (default: 3000)
+- `PORT`: Server port (default: 3751)
 
 ## Technologies Used
 - Node.js
@@ -74,7 +74,7 @@ This API is deployed using Render
 - CORS middleware
 
 ## Live Demo
-The API is deployed at: `https://your-deployed-url/`
+The API is deployed at: `https://gentech-92pt.onrender.com`
 
 ## Author
 Your Name
