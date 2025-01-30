@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     const currentDate = new Date().toISOString();
 
     res.json({
-        email: "obijekwudamian@gmailcom", 
+        email: "obijekwudamian@gmail.com", 
         current_datetime: new Date().toISOString(),
         github_url: "https://github.com/D-blac/HNG12-0-"
     });
