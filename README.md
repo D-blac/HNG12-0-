@@ -1,14 +1,15 @@
 # HNG12 [0]
 Public API to Retrieve Basic Information
 
-#backlink
+# backlink
+
 `https://hng.tech/hire/nodejs-developers`
 
 # HNG Stage One Task
 
 A basic REST API created using Node.js and Express that provides personal details such as email, the current date and time in ISO 8601 format, and the URL to a GitHub repository.
 
-## Requirements
+# Requirements
 
 - Node.js
 - npm (Node Package Manager)
@@ -50,13 +51,13 @@ npm run dev
 
 The API will be available at `http://localhost:3751`
 
-## Production Setup
+# Production Setup
 
 To start the server in production:
 
 npm start
 
-## Deployment
+# Deployment
 
 This API is deployed using Render
 
@@ -79,4 +80,4 @@ This API is deployed using Render
 The API is deployed at: `https://hng12-0-production-4048.up.railway.app`
 
 # Author
-Your Name
+D-Blac
