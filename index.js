@@ -5,12 +5,12 @@ const app = express();
 const PORT = process.env.PORT || 3751;
 
 
-app.use(cors("*"));
+app.use(cors());
 
 app.get('/', (req, res) => {
 
     const currentDate = new Date().toISOString();
-     
+
     res.json({
         email: "obijekwudamian@gmailcom", 
         current_datetime: new Date().toISOString(),

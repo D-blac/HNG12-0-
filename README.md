@@ -11,14 +11,14 @@ A basic REST API created using Node.js and Express that provides personal detail
 - Node.js 18.x or higher
 - npm (Node Package Manager)
 
-## API Specification
+# API Specification
 
-### Endpoint
+# Endpoint
 - URL: `https://hng12-0-jur9.onrender.com`
 - Method: `GET`
 - Response Format: JSON
 
-### Response Format
+# Response Format
 
 {
     "email": "your-obijekwudamian@gmail.com",
@@ -27,7 +27,7 @@ A basic REST API created using Node.js and Express that provides personal detail
 }
 
 
-## Local Development Setup
+# Local Development Setup
 
 1. Clone the repository
 
@@ -58,23 +58,23 @@ npm start
 
 This API is deployed using Render
 
-### Render
+# Render
 1. Create a new Web Service
 2. Connect your GitHub repository
 3. Set build command: `npm install`
 4. Set start command: `npm start`
 
 
-## Environment Variables
+# Environment Variables
 - `PORT`: Server port (default: 3751)
 
-## Technologies Used
+# Technologies Used
 - Node.js
 - Express
 - CORS middleware
 
-## Live Demo
+# Live Demo
 The API is deployed at: `https://hng12-0-jur9.onrender.com`
 
-## Author
+# Author
 Your Name
