@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     res.json({
         email: "obijekwudamian@gmailcom", 
         current_datetime: new Date().toISOString(),
-        github_url: "<https://github.com/D-blac/HNG12-0->"
+        github_url: "https://github.com/D-blac/HNG12-0-"
     });
 });
 
