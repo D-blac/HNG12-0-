@@ -8,13 +8,13 @@ A basic REST API created using Node.js and Express that provides personal detail
 
 ## Requirements
 
-- Node.js 18.x or higher
+- Node.js
 - npm (Node Package Manager)
 
 # API Specification
 
 # Endpoint
-- URL: `https://hng12-0-jur9.onrender.com`
+- URL: `https://hng12-0-production-4048.up.railway.app`
 - Method: `GET`
 - Response Format: JSON
 
@@ -23,7 +23,7 @@ A basic REST API created using Node.js and Express that provides personal detail
 {
     "email": "your-obijekwudamian@gmail.com",
     "current_datetime": "2025-01-30T09:30:00Z",
-    "github_url": `"https://github.com/D-blac/HNG12-0-.git"`
+    "github_url": `"https://github.com/D-blac/HNG12-0-"`
 }
 
 
@@ -74,7 +74,7 @@ This API is deployed using Render
 - CORS middleware
 
 # Live Demo
-The API is deployed at: `https://hng12-0-jur9.onrender.com`
+The API is deployed at: `https://hng12-0-production-4048.up.railway.app`
 
 # Author
 Your Name
