@@ -34,7 +34,7 @@ The API will be available at http://localhost:3751
 # API Documentation
 
 # Endpoint
-- URL: https://hng12-0-production-4048.up.railway.app
+- URL: https://hng12-0-production-4048.up.railway.app  or https://hng12-0-jur9.onrender.com/
 - Method: GET
 - Response Format: JSON
 
@@ -90,6 +90,8 @@ The API is optimized for fast response times (< 500ms) through:
 
 # Live Demo
 The API is deployed at: https://hng12-0-production-4048.up.railway.app
+
+https://hng12-0-jur9.onrender.com/
 
 # Author
 D-Blac
